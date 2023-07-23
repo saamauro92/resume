@@ -82,7 +82,7 @@ header {
 }
 
 .logo {
-    background: url("assets/images/mauro.jpeg");
+    background: url("../assets/images/mauro.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
